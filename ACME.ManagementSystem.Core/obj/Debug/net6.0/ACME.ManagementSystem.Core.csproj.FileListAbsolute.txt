@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\bin\Debug\net6.0\ACME.ManagementSystem.Core.deps.json
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\bin\Debug\net6.0\ACME.ManagementSystem.Core.dll
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\bin\Debug\net6.0\ACME.ManagementSystem.Core.pdb
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.dll
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\refint\ACME.ManagementSystem.Core.dll
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ACME.ManagementSystem.Core.pdb
+C:\Users\HP\source\repos\ACME.ManagementSystem\ACME.ManagementSystem.Core\obj\Debug\net6.0\ref\ACME.ManagementSystem.Core.dll
