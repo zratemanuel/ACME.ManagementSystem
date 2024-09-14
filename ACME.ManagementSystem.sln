@@ -1,21 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.ManagementSystem.Core", "ACME.ManagementSystem.Core\ACME.ManagementSystem.Core.csproj", "{3E29F837-9F94-4514-8530-780D9718E035}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.ManagementSystem.Core", "ACME.ManagementSystem.Core\ACME.ManagementSystem.Core.csproj", "{3E29F837-9F94-4514-8530-780D9718E035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.ManagementSystem.Tests", "ACME.ManagementSystem.Tests\ACME.ManagementSystem.Tests.csproj", "{318023FC-E719-4C26-8576-B3F8BE8F42CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.ManagementSystem.Tests", "ACME.ManagementSystem.Tests\ACME.ManagementSystem.Tests.csproj", "{318023FC-E719-4C26-8576-B3F8BE8F42CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.ManagementSystem.ConsoleApp", "ACME.ManagementSystem.ConsoleApp\ACME.ManagementSystem.ConsoleApp.csproj", "{BD2C3B98-5D37-4039-A751-86A4F55F585A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.ManagementSystem.ConsoleApp", "ACME.ManagementSystem.ConsoleApp\ACME.ManagementSystem.ConsoleApp.csproj", "{BD2C3B98-5D37-4039-A751-86A4F55F585A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3E29F837-9F94-4514-8530-780D9718E035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +27,11 @@ Global
 		{BD2C3B98-5D37-4039-A751-86A4F55F585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD2C3B98-5D37-4039-A751-86A4F55F585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD2C3B98-5D37-4039-A751-86A4F55F585A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D913FA6-12E5-44C0-B5FD-B9C63A5C6DB0}
 	EndGlobalSection
 EndGlobal
