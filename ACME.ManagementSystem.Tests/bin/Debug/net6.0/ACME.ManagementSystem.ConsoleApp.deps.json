@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACME.ManagementSystem.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "ACME.ManagementSystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "ACME.ManagementSystem.ConsoleApp.dll": {}
+        }
+      },
+      "ACME.ManagementSystem.Core/1.0.0": {
+        "runtime": {
+          "ACME.ManagementSystem.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACME.ManagementSystem.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACME.ManagementSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
